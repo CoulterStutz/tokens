@@ -1,0 +1,9 @@
+{
+  "symbol": "CONST",
+  "name": "Constallation",
+  "type": "ERC20",
+  "address": "0xFb773A66225ff69560A0a1aef76D3AE773F47675",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://constallation.cstutz.dev"
+}
